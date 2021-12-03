@@ -128,7 +128,7 @@
                                 <li>
                                     <h4>Office Location</h4>
                                     <div class="icon"><i class="fas fa-map-marked-alt"></i></div> 
-                                    <span>19/144, M.H.B. Colony, Sarvoday Nagar,<br>Meghwadi, Jogeshwari East,<br>Mumbai - 400060</span>
+                                    <span>101, Shubham Heights, Mogra Village, Old Nagardas Road, Near Hotel J K Residency, Andheri (East)<br>Mumbai - 400069</span>
                                 </li>
                                 <li>
                                     <h4>Phone</h4>
